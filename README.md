@@ -56,12 +56,9 @@ The project is organized as follows:
    - **report.pdf**: The final report in PDF format.
    - **report_source.md**: The Markdown source file for the report.
 
-#### 4. **Root Directory**
+#### 4. **/report/**
    - This folder contains the code for the project.
-   - **script1.py**: Main script for running the Bass Model calculations and generating plots.
-   - **script2.py**: Helper functions for data processing and model estimation.
-   - **helper_functions.py**: Additional utility functions used throughout the project.
-
+   - **Bass Model.ipynb**: Main script for running the Bass Model calculations and generating plots.
 ---
 
 ## How to Run the Project
